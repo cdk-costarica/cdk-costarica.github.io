@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+La idea de este blog es informar sobre diversas organizaciones mensualmente y proporcionar una forma de realizar donaciones.
 
-### More Information
+### Contacto
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[cdkcostarica@gmail.com](mailto:cdkcostarica@gmail.com)
